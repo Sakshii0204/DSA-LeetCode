@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
