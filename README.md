@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sakshii0204/DSA-LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
